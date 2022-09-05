@@ -1,4 +1,4 @@
-# E-Commerce-Backend
+# EM9001 System
 
 <h1 align="center">EM9001 System, an Employee Managment System</h1>
 
