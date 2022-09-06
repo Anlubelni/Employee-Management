@@ -1,12 +1,9 @@
-# EM9001 System
-
 <h1 align="center">EM9001 System, an Employee Managment System</h1>
 
-<a name="Description" />
 ## Description
 The EM9001 System is an employee management system used to perform CRUD operations on a database based on inputs to prompts in a text based console.
 
-<a name="Installation-Instructions"></a>   
+
 ## Installation Instructions
 In order to be able to run this project, you must have the following installed:
 - mySQL
@@ -24,8 +21,7 @@ Once those are installed you must set up your database
 7. In the terminal, run 'npm run seed' at the root of the project files to generate database data.
 
 
-
-<a name="Usage-Information"></a>   
+ 
 ## Usage Information
 Open up the terminal and navigate to the root of your project files and type 'node ./index.js' to start the application.
 Use the arrow keys to select an option, and follow the prompts from there!
